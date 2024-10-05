@@ -27,6 +27,6 @@ Further exploration of Constraint Satisfaction Problems (CSP) could enhance the 
 Simulated Annealing proved more efficient than Genetic Algorithm, showing faster and more consistent results. Fine-tuning GA hyperparameters and adding a restart heuristic could improve its performance in future implementations.
 
 ## References:
-- [Simulated Annealing Code](https://colab.research.google.com/drive/1YOeHmryelzCOyNzXemPAmBaMkMEtXg-X?usp=sharing)
-- [Genetic Algorithm Code](https://colab.research.google.com/drive/1Hv_ofPv67mJ2ExxAlL4JsYrj58HZFRyg?usp=sharing)
+- [Simulated Annealing Code](https://github.com/anamika8/Sudoku-Puzzle-Solving-Using-Simulated-Annealing-and-Genetic-Algorithm/blob/main/Simulated_Annealing_Sudoku.ipynb)
+- [Genetic Algorithm Code](https://github.com/anamika8/Sudoku-Puzzle-Solving-Using-Simulated-Annealing-and-Genetic-Algorithm/blob/main/Genetic_Algorithm.ipynb)
 
